@@ -4,6 +4,8 @@ stoplight-id: et47aqwq4dh5u
 # Contributing to Stoplight Elements
 ![robot-circle.svg](../assets/images/robot-circle.svg)
 
+![Pepper.jpg](../assets/images/Pepper.jpg)
+
 ## Table Of Contents
 
 - [Contributing to Stoplight Elements](#contributing-to-stoplight-elements)
